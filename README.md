@@ -25,7 +25,7 @@ This repository provides an advanced approach to predicting gold prices using an
 
 ## Dataset
 
-The dataset used for this project is a historical gold price dataset from [Kaggle](https://www.kaggle.com/code/farzadnekouei/gold-price-prediction-lstm-96-accuracy/notebook#Step-6:-Splitting-Data-to-Training-&-Test-Sets). Ensure you have the dataset saved in the working directory as `Gold Price (2013-2023).csv`.
+The dataset used for this project is a historical gold price dataset from [Kaggle](https://www.kaggle.com/datasets/farzadnekouei/gold-price-10-years-20132023). Ensure you have the dataset saved in the working directory as `Gold Price (2013-2023).csv`.
 
 ## Improvements Over Original Code
 
