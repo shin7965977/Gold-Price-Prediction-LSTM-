@@ -1,0 +1,5 @@
+# Exclude Jupyter Notebook from GitHub language statistics
+*.ipynb -linguist-detectable
+
+# Include SQL files in GitHub language statistics
+*.sql linguist-detectable
